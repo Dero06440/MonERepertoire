@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\33686\\source\\repos\\MonERepertoire\\MonERepertoire\\MonERepertoire.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\33686\\source\\repos\\MonERepertoire\\MonERepertoire\\MonERepertoire.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33686\\source\\repos\\MonERepertoire\\MonERepertoire\\MonERepertoire.csproj",
+        "projectName": "MonERepertoire",
+        "projectPath": "C:\\Users\\33686\\source\\repos\\MonERepertoire\\MonERepertoire\\MonERepertoire.csproj",
+        "packagesPath": "C:\\Users\\33686\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33686\\source\\repos\\MonERepertoire\\MonERepertoire\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\33686\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
